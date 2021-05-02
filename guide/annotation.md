@@ -96,7 +96,7 @@ mp会自动构建一个`ResultMap`并注入到mybatis里(一般用不上).下面
 | INSERT_UPDATE | 插入和更新时填充字段 |
 
 ## [@Version](https://github.com/baomidou/mybatis-plus/blob/3.0/mybatis-plus-annotation/src/main/java/com/baomidou/mybatisplus/annotation/Version.java)
-- 描述：乐观锁注解、标记 `@Verison` 在字段上
+- 描述：乐观锁注解、标记 `@Version` 在字段上
 
 
 ## [@EnumValue](https://github.com/baomidou/mybatis-plus/blob/3.0/mybatis-plus-annotation/src/main/java/com/baomidou/mybatisplus/annotation/EnumValue.java)
